@@ -1,2 +1,2 @@
-# workflow-generator
+# Codilate
 Generates a workflow via CLI
