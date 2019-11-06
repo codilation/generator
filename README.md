@@ -1,2 +1,2 @@
 # Codilate
-Generates a workflow via CLI
+Codilate generates a new install of a workflow or framework from your terminal. 
